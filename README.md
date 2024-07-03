@@ -1,4 +1,4 @@
-### Hi there 👋, Namaste!🙏
+### Namaste!🙏
 #### Thank you for being here.
 ![Thank you for being here.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
