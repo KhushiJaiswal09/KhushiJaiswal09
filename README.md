@@ -46,7 +46,9 @@ Full Stack Web Devloper, Java, Python, R, SQL, MongoDB
 ▬▬▬▬
 
 If you have any questions or wanna collaborate, please feel free to message me through LinkedIn.
+
 Let's connect! 
+
 Cheers! 💫
 
 
