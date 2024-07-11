@@ -1,10 +1,10 @@
 ### Namaste!🙏
 #### Thank you for being here.
 
-Khushi is a Final year Btech. student at Vellore Institute of Technology, Bhopal.  She is passionate about making things for itself through crafting meaningful insights and 
-building products from ideation to execution.
+Khushi is a Final year Btech. student at Vellore Institute of Technology, Bhopal.  She is passionate about making things and craft meaningful insights and 
+build products from ideation to execution.
 
-Her interests are in the intersection of- Web development & Education. 
+Her interests are in the intersection of- Web Development & Education. 
 
 She has been honing his skills in:
 
@@ -12,7 +12,7 @@ She has been honing his skills in:
 
 ⭐ Full Stack Web Developer
 
-As a student, she has worked to to solve real-world challenges through tech skills, critical thinking, & innovation. 
+As a student, she has worked to solve real-world challenges through tech skills, critical thinking, & innovation. 
 
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=KhushiJaiswal09&theme=tokyonight")  
@@ -21,7 +21,7 @@ As a student, she has worked to to solve real-world challenges through tech skil
 
 ▬▬▬▬▬▬▬▬▬▬
 
-In the next 2-5 years, she aspires to solve real-world problems through the innovative use of her skills. In addition, help underprivileged students,  in setting their roadmap for a better future and life. 
+In the next 2-5 years, she aspires to solve real-world problems through the innovative use of her skills. In addition, help underprivileged students set their roadmap for a better future and life. 
 Furthermore, she's looking forward to driving positive social changes regarding climate change, gender neutrality, waste management, etc., through collaborative efforts.
 
 She'd love the opportunity to work in a cutting-edge innovative, tech-centric, & creator space where she can continue to foster creativity while supporting the organization's growth to expand access and resources for marginalized groups/individuals.
@@ -45,7 +45,7 @@ Full Stack Web Devloper || Java || Python || R || SQL || MongoDB
 
 ▬▬▬▬
 
-If you have any questions or wanna collaborate, please feel free to message me through LinkedIn.
+If you have any questions or want to collaborate, please message me through LinkedIn.
 
 Let's connect! 
 
