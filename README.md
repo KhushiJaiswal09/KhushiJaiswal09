@@ -84,7 +84,7 @@ Cheers! 💫
 
 <p align="left"> <a href="https://twitter.com/khuudkhushi" target="blank"><img src="https://img.shields.io/twitter/follow/khuudkhushi?logo=twitter&style=for-the-badge" alt="khuudkhushi" /></a> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 **Java** Coder
 
 - 👨‍💻 All of my projects are available at [https://github.com/KhushiJaiswal09](https://github.com/KhushiJaiswal09)
 
