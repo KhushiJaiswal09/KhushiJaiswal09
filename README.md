@@ -58,7 +58,7 @@ She'd love the opportunity to work in a cutting-edge innovative, tech-centric, &
 
 𝗖𝗢𝗡𝗧𝗔𝗖𝗧
 
-▬▬▬▬
+▬▬▬▬ 
 
 If you have questions or want to collaborate, please message me through LinkedIn.
 
